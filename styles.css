@@ -1,6 +1,51 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+}
+
+.product {
+}
+
+.product__image {
+}
+
+.product__category-text {
+}
+
+.product__item-title {
+}
+
+.product__item-title {
+}
+
+.product__item-description {
+}
+
+.product__item-description-text {
+}
+
+.product__item-price {
+}
+
+.product__item-price-discounted {
+}
+
+.product__item-price-original {
+}
+
+.btn {
+}
+
+.add-to-cart {
+}
