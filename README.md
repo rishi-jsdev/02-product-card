@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rishi-jsdev/02-product-card)
-- Live Site URL: [Add live site URL here](https://rishi-jsdev.github.io/02-product-card/)
+- Solution URL: [https://github.com/rishi-jsdev/02-product-card](https://github.com/rishi-jsdev/02-product-card)
+- Live Site URL: [https://rishi-jsdev.github.io/02-product-card/](https://rishi-jsdev.github.io/02-product-card/)
 
 ## My process
 
@@ -41,8 +41,6 @@ Users should be able to:
 ### What I learned
 
 I learnt how to use the 'strech' property in flexbox to fill and image in row direction.
-
-To see how you can add code snippets, see below:
 
 ```css
 .product__image {
