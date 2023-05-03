@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rishi-jsdev/02-product-card-component)
-- Live Site URL: [Add live site URL here](https://rishi-jsdev.github.io/02-product-card-component/)
+- Solution URL: [Add solution URL here](https://github.com/rishi-jsdev/02-product-card)
+- Live Site URL: [Add live site URL here](https://rishi-jsdev.github.io/02-product-card/)
 
 ## My process
 
